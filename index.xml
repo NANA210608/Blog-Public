@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>霍小花</title>
+    <link>/</link>
+    <description>Recent content on 霍小花</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 霍小花</copyright>
+    <lastBuildDate>Fri, 01 Aug 2025 00:47:02 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello-copy-2/</link>
+      <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
+      
+      <guid>/posts/hello-copy-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello-copy-3/</link>
+      <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
+      
+      <guid>/posts/hello-copy-3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello-copy-4/</link>
+      <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
+      
+      <guid>/posts/hello-copy-4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello-copy/</link>
+      <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
+      
+      <guid>/posts/hello-copy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello/</link>
+      <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/my-posts/</link>
+      <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
+      
+      <guid>/posts/my-posts/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/my-posts/feature.png" />
+    </item>
+    
+    <item>
+      <title>我是一只小小小小鸟</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
