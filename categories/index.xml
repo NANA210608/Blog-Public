@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>分类 on 霍小花</title>
+    <title>分类 on NANA</title>
     <link>/categories/</link>
-    <description>Recent content in 分类 on 霍小花</description>
+    <description>Recent content in 分类 on NANA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2025 霍小花</copyright>
+    <copyright>© 2025 NANA&#39;s Daily Life</copyright>
     <lastBuildDate>Thu, 31 Jul 2025 23:26:49 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>日常</title>
-      <link>/categories/%E6%97%A5%E5%B8%B8/</link>
+      <title>实验室</title>
+      <link>/categories/%E5%AE%9E%E9%AA%8C%E5%AE%A4/</link>
       <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
       
-      <guid>/categories/%E6%97%A5%E5%B8%B8/</guid>
+      <guid>/categories/%E5%AE%9E%E9%AA%8C%E5%AE%A4/</guid>
       <description></description>
       
     </item>
