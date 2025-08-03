@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文章 on NANA</title>
-    <link>/posts/</link>
-    <description>Recent content in 文章 on NANA</description>
+    <title>碎碎念 on NANA</title>
+    <link>/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
+    <description>Recent content in 碎碎念 on NANA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 NANA&#39;s Daily Life</copyright>
-    <lastBuildDate>Sun, 03 Aug 2025 22:27:42 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Aug 2025 22:27:42 +0800</lastBuildDate><atom:link href="/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>东张西望</title>
@@ -15,16 +15,6 @@
       <pubDate>Sun, 03 Aug 2025 22:27:42 +0800</pubDate>
       
       <guid>/posts/my-thoughs/xxx/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>/posts/hello-copy-2/</link>
-      <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
-      
-      <guid>/posts/hello-copy-2/</guid>
       <description></description>
       
     </item>
