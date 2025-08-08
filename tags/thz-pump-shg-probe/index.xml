@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>THz-Pump SHG Probe on NANA</title>
+    <link>/tags/thz-pump-shg-probe/</link>
+    <description>Recent content in THz-Pump SHG Probe on NANA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 NANA&#39;s Daily Life</copyright>
+    <lastBuildDate>Wed, 06 Aug 2025 22:27:42 +0800</lastBuildDate><atom:link href="/tags/thz-pump-shg-probe/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>文献阅读 Terahertz-Induced Second-Harmonic Generation in Quantum Paraelectrics Hot-Phonon Effect</title>
+      <link>/posts/thz-document/</link>
+      <pubDate>Wed, 06 Aug 2025 22:27:42 +0800</pubDate>
+      
+      <guid>/posts/thz-document/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

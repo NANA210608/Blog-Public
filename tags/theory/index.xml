@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theory on NANA</title>
+    <link>/tags/theory/</link>
+    <description>Recent content in Theory on NANA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 NANA&#39;s Daily Life</copyright>
+    <lastBuildDate>Sat, 09 Aug 2025 00:36:37 +0800</lastBuildDate><atom:link href="/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The physical significance of imaginary phonon modes in crystals</title>
+      <link>/posts/imaginary_phonon_modes/</link>
+      <pubDate>Sat, 09 Aug 2025 00:36:37 +0800</pubDate>
+      
+      <guid>/posts/imaginary_phonon_modes/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

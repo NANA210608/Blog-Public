@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文献阅读 on NANA</title>
+    <link>/tags/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB/</link>
+    <description>Recent content in 文献阅读 on NANA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 NANA&#39;s Daily Life</copyright>
+    <lastBuildDate>Sat, 09 Aug 2025 00:36:37 +0800</lastBuildDate><atom:link href="/tags/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The physical significance of imaginary phonon modes in crystals</title>
+      <link>/posts/imaginary_phonon_modes/</link>
+      <pubDate>Sat, 09 Aug 2025 00:36:37 +0800</pubDate>
+      
+      <guid>/posts/imaginary_phonon_modes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>文献阅读 Terahertz-Induced Second-Harmonic Generation in Quantum Paraelectrics Hot-Phonon Effect</title>
+      <link>/posts/thz-document/</link>
+      <pubDate>Wed, 06 Aug 2025 22:27:42 +0800</pubDate>
+      
+      <guid>/posts/thz-document/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

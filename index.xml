@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 NANA&#39;s Daily Life</copyright>
-    <lastBuildDate>Sun, 03 Aug 2025 22:27:42 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Aug 2025 00:36:37 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The physical significance of imaginary phonon modes in crystals</title>
+      <link>/posts/imaginary_phonon_modes/</link>
+      <pubDate>Sat, 09 Aug 2025 00:36:37 +0800</pubDate>
+      
+      <guid>/posts/imaginary_phonon_modes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>THz-TDS技术应用（Menlo System）</title>
+      <link>/posts/thz-tds_menlo/</link>
+      <pubDate>Thu, 07 Aug 2025 11:27:42 +0800</pubDate>
+      
+      <guid>/posts/thz-tds_menlo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>文献阅读 Terahertz-Induced Second-Harmonic Generation in Quantum Paraelectrics Hot-Phonon Effect</title>
+      <link>/posts/thz-document/</link>
+      <pubDate>Wed, 06 Aug 2025 22:27:42 +0800</pubDate>
+      
+      <guid>/posts/thz-document/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>东张西望</title>
@@ -25,6 +55,16 @@
       <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
       
       <guid>/posts/hello-copy-2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>THz泵浦探测实验搭建</title>
+      <link>/posts/my-exp/</link>
+      <pubDate>Thu, 31 Jul 2025 23:26:49 +0800</pubDate>
+      
+      <guid>/posts/my-exp/</guid>
       <description></description>
       
     </item>
