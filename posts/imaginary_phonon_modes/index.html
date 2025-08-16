@@ -136,7 +136,7 @@
     "keywords": ["文献阅读","imaginary phonon modes","theory"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "795"
+    "wordCount": "801"
   }]
   </script>
 
@@ -160,6 +160,145 @@
 
 
 
+
+  
+  
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="/lib/katex/katex.min.33db995186a4f895643c57d5be16f59f520ffd0f0be5c9cb08ef158536fabdd3581893d7305846a7c83e495376021081ca5d4ad00a44bfe4d640c4917f087a9e.css"
+    integrity="sha512-M9uZUYak&#43;JVkPFfVvhb1n1IP/Q8L5cnLCO8VhTb6vdNYGJPXMFhGp8g&#43;SVN2AhCByl1K0ApEv&#43;TWQMSRfwh6ng==">
+  
+  
+  
+  <script
+    defer
+    type="text/javascript"
+    src="/js/katex.bundle.735b6f1542c0acf03d492dcdf14710c2e277474a64ae8ce49ef56563e17d142f9d3f4466e82cf12679968f50985628e08948ec341fba2df746545d0fd337d81d.js"
+    integrity="sha512-c1tvFULArPA9SS3N8UcQwuJ3R0pkrozknvVlY&#43;F9FC&#43;dP0Rm6CzxJnmWj1CYVijgiUjsNB&#43;6LfdGVF0P0zfYHQ=="
+    id="katex-render"></script>
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
 
 
 
@@ -677,7 +816,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-08-09T00:36:37&#43;08:00">2025年8月9日</time><span class="px-2 text-primary-500">&middot;</span><span>795 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">2 分钟</span>
+      <time datetime="2025-08-09T00:36:37&#43;08:00">2025年8月9日</time><span class="px-2 text-primary-500">&middot;</span><span>801 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">2 分钟</span>
     
 
     
@@ -871,8 +1010,8 @@
     </span>        
     
 </h3>
-<p>实空间有限位移法： 通过有限位移原子计算 $\bm{\Phi}$（需超胞）。</p>
-<p>密度泛函微扰理论 (DFPT)： 在倒空间直接计算 $\bm{D}(\mathbf{q})$（通常更高效，但对代码实现和泛函有特定要求）。</p>
+<p>实空间有限位移法： 通过有限位移原子计算 \(\bm{\Phi}\)（需超胞）。</p>
+<p>密度泛函微扰理论 (DFPT)： 在倒空间直接计算 \(\bm{D}(\mathbf{q})\)（通常更高效，但对代码实现和泛函有特定要求）。</p>
 
 <h4 class="relative group">局限性 
     <div id="局限性" class="anchor"></div>
@@ -895,7 +1034,7 @@
     </span>        
     
 </h4>
-<p>物理意义： $\omega^2 &lt; 0$ 意味着 $U(Q) = \frac{1}{2} \omega^2 Q^2$ 在 $Q=0$ 处是向下的抛物线，能量随 $Q$ 增大而降低。对应PES上的鞍点 (Saddle Point) 或山顶 (Hilltop)（局部极大值）。本征矢 $\bm{W}$ 定义了使能量降低的集体原子位移方向（结构畸变路径）。</p>
+<p>物理意义： \(\omega^2 < 0\) 意味着 \(U(Q) = \frac{1}{2} \omega^2 Q^2\) 在 \(Q=0\) 处是向下的抛物线，能量随 \(Q\) 增大而降低。对应PES上的鞍点 (Saddle Point) 或山顶 (Hilltop)（局部极大值）。本征矢 \(\bm{W}\) 定义了使能量降低的集体原子位移方向（结构畸变路径）。</p>
 <p>典型势阱： 许多材料的虚模对应双势阱 (Double-Well Potential)。这是Landau理论描述的对称性破缺位移型相变（如铁电体PbTiO₃）的特征。</p>
 <p>真实晶格不稳定导致的虚模，可以预测相变行为（相变压力、温度），新的晶体多形体（Polymorph），识别动态Jahn-Teller不稳定性，超离子传导机制</p>
 
@@ -908,8 +1047,10 @@
     </span>        
     
 </h4>
-<p><strong>Mode Mapping</strong>： 虚模源于本征不稳定性，核心方法是沿其本征矢 $\bm{W}$ 以不同振幅 $Q$ 调制原子位置，计算能量变化 $U(Q)$，从而绘制PES曲线，可视化势阱形状，定位最近的局域极小点，研究模式间耦合</p>
-<p><strong>Renormalisation</strong>：赋予虚模温度依赖的有效谐波频率</p>
+<p><strong>Mode Mapping</strong>： 虚模源于本征不稳定性，核心方法是沿其本征矢 \(\bm{W}\) 以不同振幅 \(Q\) 调制原子位置，计算能量变化 \(U(Q)\)，从而绘制PES曲线，可视化势阱形状，定位最近的局域极小点，研究模式间耦合</p>
+<p><strong>Renormalisation</strong>：赋予虚模温度依赖的有效谐波频率
+
+</p>
 
           
           
