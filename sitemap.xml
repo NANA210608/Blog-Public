@@ -3,19 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/</loc>
-    <lastmod>2025-08-12T11:32:13+08:00</lastmod>
+    <loc>/posts/my-exp/lno/</loc>
+    <lastmod>2025-08-23T11:54:47+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/posts/my-exp/wobr/</loc>
-    <lastmod>2025-08-12T11:32:13+08:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2025-08-23T11:54:47+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/posts/</loc>
+    <lastmod>2025-08-23T11:54:47+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/posts/my-exp/wobr/</loc>
     <lastmod>2025-08-12T11:32:13+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
